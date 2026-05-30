@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.h5
+*.hdf5
+
+# TensorFlow / Keras model files
+*.model
+*.keras
+saved_model/
+*.pb
+*.ckpt
+*.ckpt.*
+checkpoints/
+
+# Image datasets (large folders)
+data/
+dataset/
+images/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+logs/
+runs/
